@@ -1,0 +1,1 @@
+REUPLOAD Oct. 2025: Deep neural network model, BERT based, for Named Entity Recognition and Relation Extraction on medical reports (ADE-Corpus). Project collaboration of Matteo Radaelli and Stefano Zanoni.
