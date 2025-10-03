@@ -6,8 +6,8 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)  
 
 **Authors:**  
-- Stefano Zanoni (s.zanoni@studenti.unipit.it)  
 - Matteo Radaelli (matteo.radaelli@ntnu.no)  
+- Stefano Zanoni (s.zanoni@studenti.unipit.it)  
 
 ---
 
