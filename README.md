@@ -109,6 +109,9 @@ epochs: 6
 | Recall    | 0.925 |
 | F1 Score  | 0.806 |
 
+Heatmap NER:
+![Heatmap NER ](results/heatmap_NER.png)
+
 ### RE Model
 
 | Metric    | Score |
