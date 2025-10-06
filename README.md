@@ -15,7 +15,7 @@
 The monitoring of drug safety (**Pharmacovigilance**) plays a pivotal role in healthcare decision-making. Extracting information from medical case reports helps ensure high-quality health care and maintain the integrity of the patient–physician relationship.  
 
 With recent advances in NLP, it is possible to automatically identify relations between drugs and their side effects, called **Adverse Drug Events (ADEs)**, which is difficult to perform manually due to patients often undergoing multiple treatments.  
-For further information, visit the ![**Project Report**](https://docs.google.com/document/d/1JTjqt0Ga_qYtgFdTYQk-HyLFSF3MwvwQ/edit).
+For further information, visit the [**Project Report**](https://docs.google.com/document/d/1JTjqt0Ga_qYtgFdTYQk-HyLFSF3MwvwQ/edit).
 
 This project proposes a **joint model** that provides:
 - **Named Entity Recognition (NER):** identifying drugs and effects in raw text.  
