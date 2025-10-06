@@ -110,6 +110,7 @@ epochs: 6
 | F1 Score  | 0.806 |
 
 Heatmap NER:
+
 ![Heatmap NER ](results/heatmap_NER.png)
 
 ### RE Model
